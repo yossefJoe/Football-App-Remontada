@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899428897261",
+    "project_id": "remontada-f8f91",
+    "storage_bucket": "remontada-f8f91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899428897261:android:25d4d0290a7329b98817e4",
+        "android_client_info": {
+          "package_name": "com.example.remontada"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtx0T-thZhMhR_9PUjomX4wXTp2ICXRiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
